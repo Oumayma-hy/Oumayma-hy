@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Oumayma , a software engineering student
+👋 Hi, I’m Oumayma , a software engineering student
 
 
 
